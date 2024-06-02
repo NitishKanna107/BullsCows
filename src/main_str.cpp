@@ -13,7 +13,7 @@ int main()
 	try {
 		bool newGame = true;
 		std::cout << "Welcome to Bulls and Cows" << '\n';
-		std::cout << "Guess a four digit number with no single digit repeated more than once\n"
+		std::cout << "Guess a four letter word with no single letter repeated more than once\n"
 			"If you guess the right letter in the right place then you score a bull\n"
 			"If you guess the right letter in the wrong place then you score a cow\n"
 			"Use only uppercase letters\n"

@@ -7,6 +7,8 @@ The rules are simple to understand and the program will tell them to you at the 
 ### Setup
 - Clone this repository or download a zip and extract all files.
 - Compile the program using any compiler that you like. 
+- Use main.cpp if you want to play the number version
+- Use main_str.cpp if you want to play the word version
 
 >Note:- The header file std_lib_facilities.h comes along with the book PPPUC++ and contains utilities that assist novice programmers. The game uses certain functions like error() and keep_window_open() defined in the header file. Its totally fine if you do not want std_lib_facilities.h and are fine with writing your own error() and keep_window_open() functions.
 
